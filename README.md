@@ -1,5 +1,5 @@
 # Web Crawling 
 
-- Instalar dependencia
-pip install beautifulsoup4
+** Instalar dependencia
+- pip install beautifulsoup4
 
